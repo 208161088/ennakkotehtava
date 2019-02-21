@@ -4,10 +4,10 @@ Silloin kun kukaan ei ole käynyt sivustolla vähään aikaan, ja sen jälkeen j
 
 Silloin kun hain työpaikkaa frantic nimisestä yhtiöstä, he pyysivät että teen tämän "ennakkotehtävän".
 
-Ennakkotehtävä.pdf on heidän tehtävänanto.<br />
+Ennakkotehtävä.pdf on heidän tehtävänanto.<br /><br />
 
-asennus ohjeet windows 10:lle:__
- lataa tiedostot githubista__
- asenna node.js__
+asennus ohjeet windows 10:lle:<br />
+ lataa tiedostot githubista_
+ asenna node.js_
  kaksoisklikkaa install.bat tiedostoa
  kaksoisklikkaa start.bat tiedostoa, jos haluat käynnistää sivuston paikallisesti.
