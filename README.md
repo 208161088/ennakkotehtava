@@ -4,7 +4,6 @@ Silloin kun hain työpaikkaa frantic nimisestä yhtiöstä, he pyysivät että t
 
 Ennakkotehtävä.pdf on heidän tehtävänanto.
 
-
 asennus ohjeet windows 10:lle:
   
   lataa tiedostot githubista
