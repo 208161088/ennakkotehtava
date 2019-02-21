@@ -7,7 +7,7 @@ Silloin kun hain työpaikkaa frantic nimisestä yhtiöstä, he pyysivät että t
 Ennakkotehtävä.pdf on heidän tehtävänanto.
 
 
-__asennus ohjeet windows 10:lle:__  
+#asennus ohjeet windows 10:lle:  
 lataa tiedostot githubista  
 asenna node.js  
 kaksoisklikkaa install.bat tiedostoa  
