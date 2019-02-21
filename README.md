@@ -7,7 +7,7 @@ Silloin kun hain työpaikkaa frantic nimisestä yhtiöstä, he pyysivät että t
 Ennakkotehtävä.pdf on heidän tehtävänanto.
 
 asennus ohjeet windows 10:lle:
- lataa tiedostot githubista
- asenna node.js
- kaksoisklikkaa install.bat tiedostoa
- kaksoisklikkaa start.bat tiedostoa, jos haluat käynnistää sivuston paikallisesti.
+lataa tiedostot githubista
+asenna node.js
+kaksoisklikkaa install.bat tiedostoa
+kaksoisklikkaa start.bat tiedostoa, jos haluat käynnistää sivuston paikallisesti.
