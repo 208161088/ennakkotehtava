@@ -152,22 +152,20 @@ displayedFilmsFunc = (a) => {
     if (this.state.films.length > 0){
       return (
         <div className='main'>
-            <img
-            className='headline-image'
-            src={header}
-            alt={'header'}
-            />
-            {/*<div className='headline-text'>STAR WARS FILMS</div>*/}
-
+          <img
+          className='headline-image'
+          src={header}
+          alt={'header'}
+          />
           <div className='main2'>
             <ul className='sort-menu'>
               <li className="sort-menu-title">SORT:</li>
-              <li><button className={this.state.titleSortOrder===null?'sort-button gray':'sort-button'} onClick={() => this.sortTitle()}>
+              <li><button className={this.state.titleSortOrder === null ? 'sort-button gray':'sort-button'} onClick={() => this.sortTitle()}>
               <div className={this.state.titleSortOrder ? '' : 'arrow-up'}/>
               <div className={this.state.titleSortOrder === true || this.state.titleSortOrder === null ? 'arrow-down' : ''}/>
               TITLE
               </button></li>
-              <li><button className={this.state.yearSortOrder===null?'sort-button gray':'sort-button'} onClick={() => this.sortYear()}>
+              <li><button className={this.state.yearSortOrder === null ? 'sort-button gray':'sort-button'} onClick={() => this.sortYear()}>
               <div className={this.state.yearSortOrder ? '' : 'arrow-up'}/>
               <div className={this.state.yearSortOrder === true || this.state.yearSortOrder === null? 'arrow-down' : ''}/>
               YEAR
