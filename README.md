@@ -2,7 +2,7 @@ sivusto on osoitteessa: https://morning-island-91090.herokuapp.com
 
 Silloin kun kukaan ei ole käynyt sivustolla vähään aikaan, ja sen jälkeen joku menee sivustolle, niin sitten kestää noin 50 sekuntia ladata sivu.
 
-Silloin kun hain työpaikkaa frantic nimisestä yhtiöstä, he pyysivät että teen tämän "ennakkotehtävän".
+Silloin kun hain työpaikkaa frantic nimisestä yhtiöstä, he pyysivät että teen tämän "ennakkotehtävän". Olen parantanut sivustoa sen jälkeen.
 
 Ennakkotehtävä.pdf on heidän tehtävänanto.
 
